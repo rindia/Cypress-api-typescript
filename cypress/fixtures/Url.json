@@ -1,0 +1,12 @@
+{
+  "base": {
+      "baseURL": "https://reqres.in/api"
+  },
+  "endpoint":{
+    "createUser" : "/users",
+    "getAllUser": "/users?page=2",
+    "deleteUserById": "/users?page=2",
+    "updateUser": "/users?page=2"
+
+  }
+}
